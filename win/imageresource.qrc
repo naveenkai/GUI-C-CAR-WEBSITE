@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>dreamcars/abc.jfif</file>
+        <file>dreamcars/MODEL3 (1).png</file>
+        <file>dreamcars/NEXON.png</file>
+        <file>dreamcars/PLZ.png</file>
+        <file>dreamcars/FORD MUSTANG.jpg</file>
+        <file>dreamcars/HONDA INSIGHT.jfif</file>
+        <file>dreamcars/HYUNDAI SONATA.jfif</file>
+        <file>dreamcars/KIA NIRO.jpg</file>
+        <file>dreamcars/KONA ELE.jfif</file>
+        <file>dreamcars/POLESTAR.jfif</file>
+        <file>dreamcars/SKODA ENYAQ.jpg</file>
+        <file>dreamcars/TOYOTA PRIUS.jpg</file>
+        <file>dreamcars/fortuner.jfif</file>
+        <file>dreamcars/HONDA INSIGHT.jpg</file>
+        <file>dreamcars/HYUNDAI SONATA.jpg</file>
+        <file>dreamcars/KIA NIRO.jfif</file>
+        <file>dreamcars/land discovery.jpg</file>
+        <file>dreamcars/land rover diesel.jpg</file>
+        <file>dreamcars/mahindra thar (1).jpg</file>
+        <file>dreamcars/mg image (2).jpg</file>
+        <file>dreamcars/TOYOTA PRIUS.jfif</file>
+        <file>dreamcars/carme.png</file>
+    </qresource>
+</RCC>
